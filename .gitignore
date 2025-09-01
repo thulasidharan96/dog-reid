@@ -1,2 +1,10 @@
 /.venv
-/.crops
+/crops
+/__pycache__/
+dog_index.faiss
+dog_metadata.json
+index_info.json
+yolov8s.pt
+yolov8n.pt
+tmp_queries
+tmp_uploads
